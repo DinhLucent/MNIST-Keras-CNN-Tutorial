@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+Thumbs.db
+
+# Project folders to ignore (large binaries)
+data/
+models/
+results/
+
+# AI tool artifacts
+.agent/
+.agent-mem/
+.agents/
+.brainsync/
+.cursor/
+.windsurfrules
